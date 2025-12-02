@@ -1,0 +1,30 @@
+site_name: Escritos
+site_url: https://teoberto.github.io/escritos/
+repo_url: https://github.com/teoberto/escritos
+repo_name: teoberto/escritos
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+
+nav:
+  - Home: index.md
