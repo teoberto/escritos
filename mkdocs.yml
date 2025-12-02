@@ -19,6 +19,11 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
 
 markdown_extensions:
   - pymdownx.highlight
@@ -27,8 +32,8 @@ markdown_extensions:
   - pymdownx.details
 
 nav:
-  - Home: index.md
-  - Público:
+  - 🏠 Home: index.md
+  - 🌍 Público:
     - Artigos: publico/artigos.md
-  - Família:
+  - 👨‍👩‍👧‍👦 Família:
     - Diário: familia/teste.md
