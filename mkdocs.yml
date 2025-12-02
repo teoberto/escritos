@@ -3,6 +3,10 @@ site_url: https://teoberto.com/
 repo_url: https://github.com/teoberto/escritos
 repo_name: teoberto/escritos
 
+extra:
+  # GARANTE QUE O GH-PAGES SEMPRE TERÁ O ARQUIVO CNAME
+  CNAME: teoberto.com
+
 theme:
   name: material
   language: pt-BR
