@@ -28,4 +28,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Diário da família: familia/teste.md
+  - Público:
+    - Artigos: publico/artigos.md
+  - Família:
+    - Diário: familia/teste.md
