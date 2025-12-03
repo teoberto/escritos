@@ -56,5 +56,5 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - 🏠 Página inicial: index.md
-  - 📝 Blog: blog/index.md
+  - Página inicial: index.md
+  - Blog: blog/index.md
