@@ -1,3 +1,3 @@
-# Bem vindo a esse espaço
+# Bem vindo(a)
 
-Compartilhamento de textos escritos por Teófilo Alberto
+Esse espaço é um espaço de aprendizado e compatilhamento.

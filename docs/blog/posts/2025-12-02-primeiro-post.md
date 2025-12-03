@@ -1,6 +1,17 @@
-## **02/12/2025**
+---
+date: 2025-12-02
+authors:
+  - teoberto
+categories:
+  - Tecnologia da Informação
+  - Aprendizado
+---
+
+# Criação do site
 
 Publicada a primeira versão do site para o compartilhamento de textos.
+
+<!-- more -->
 
 Essa primeira parte incluiu:
 
