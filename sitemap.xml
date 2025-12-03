@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://teoberto.com/</loc>
-         <lastmod>2025-12-02</lastmod>
+         <lastmod>2025-12-03</lastmod>
     </url>
     <url>
-         <loc>https://teoberto.com/familia/diario/</loc>
-         <lastmod>2025-12-02</lastmod>
+         <loc>https://teoberto.com/blog/</loc>
+         <lastmod>2025-12-03</lastmod>
     </url>
     <url>
-         <loc>https://teoberto.com/publico/artigos/</loc>
-         <lastmod>2025-12-02</lastmod>
+         <loc>https://teoberto.com/blog/2025/12/02/cria%C3%A7%C3%A3o-do-site/</loc>
+         <lastmod>2025-12-03</lastmod>
+    </url>
+    <url>
+         <loc>https://teoberto.com/blog/arquivo/2025/</loc>
+         <lastmod>2025-12-03</lastmod>
+    </url>
+    <url>
+         <loc>https://teoberto.com/blog/category/tecnologia-da-informa%C3%A7%C3%A3o/</loc>
+         <lastmod>2025-12-03</lastmod>
+    </url>
+    <url>
+         <loc>https://teoberto.com/blog/category/aprendizado/</loc>
+         <lastmod>2025-12-03</lastmod>
     </url>
 </urlset>
